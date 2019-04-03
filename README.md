@@ -1,1 +1,1 @@
-# css-selector-demo
+# css-selector-exercises-from-class
